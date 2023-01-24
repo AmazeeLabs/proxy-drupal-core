@@ -1,6 +1,6 @@
 {
   "name": "@-amazeelabs/proxy-drupal-core",
-  "version": "1.1.9",
+  "version": "1.1.10",
   "author": "Amazee Labs <development@amazeelabs.com>",
   "publishConfig": {
     "access": "public",
@@ -14,5 +14,5 @@
   "scripts": {
     "version": "sync-composer-version"
   },
-  "gitHead": "76e9807944cd1dda161efed9539ad36f788735a9"
+  "gitHead": "064e67a4f2c17b2977b0b99016ffa9dcb640a40f"
 }
